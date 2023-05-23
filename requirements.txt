@@ -5,5 +5,5 @@ py3nvml==0.2.7
 PyGObject==3.42.0
 python-xlib==0.31
 pyxdg==0.27
-requests==2.27.1
+requests==2.31.0
 Rx==3.2.0
